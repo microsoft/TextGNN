@@ -1,5 +1,5 @@
 # Improve Text Encoder via Graph Neural Network
-Code for the BERT version implementation of the TextGNN model in WWW 2021 paper: Improve Text Encoder via Graph Neural Network
+Code for the BERT version implementation of the TextGNN model in WWW 2021 paper: [TextGNN: Improve Text Encoder via Graph Neural Network](https://arxiv.org/abs/2101.06323)
 
 
 ## Requirements: 
